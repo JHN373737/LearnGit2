@@ -1,0 +1,2 @@
+test for making repository on local machine first and linking to GitHub
+I.E. add existing repo to GitHub
